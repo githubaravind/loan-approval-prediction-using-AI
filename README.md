@@ -134,6 +134,5 @@ If you found this project helpful or have any questions, feel free to reach out!
 
 ---
 
-You can also explore more of my projects and follow my journey in data science and AI on [Medium](https://medium.com/@christophercastro690).
 
 
