@@ -1,7 +1,7 @@
 
 # Loan Prediction with AI and Streamlit
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-Loan_Prediction_App-brightgreen.svg)](https://loan-checker-ai.streamlit.app/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Loan_Prediction_App-brightgreen.svg)](https://loan-approval-ai.streamlit.app/)
 
 ![image](https://github.com/user-attachments/assets/4b336e52-8283-498d-9e27-1c291c14ad9c)
 ![image](https://github.com/user-attachments/assets/cafd4dc5-e0af-4505-984b-f1f08a991d00)
@@ -12,9 +12,7 @@ This project demonstrates how **AI** and **Machine Learning** can be applied to 
 
 ## Demo
 
-Try the loan prediction app here: [Loan Checker AI](https://loan-checker-ai.streamlit.app/)
-
-Youtube Demo here: [Loan Checker AI Demo](https://www.youtube.com/watch?v=dQRW1WTRDTA&t=2s)
+Try the loan prediction app here: [Loan Checker AI](https://loan-approval-ai.streamlit.app/)
 
 ---
 
@@ -49,8 +47,7 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ChristopherCastro69/Loan-Prediction.git
-```
+git clone [https://github.com/githubaravind/loan-approval-prediction-using-AI]```
 
 ### 2. Install the required packages
 Ensure you have Python 3.6+ and the following packages installed:
@@ -69,7 +66,7 @@ The app will be available at `http://localhost:8501`.
 
 The model was trained on **Kaggle** using the loan prediction dataset. You can find the Kaggle notebook here:
 
-- [Kaggle Notebook](https://www.kaggle.com/code/kaizn69/loan-status-prediction-and-model-deployment)
+- [Kaggle Notebook](https://www.kaggle.com/code/aravindreddy1468/loan-prediction)
 
 For training, we used the following features:
 - **Applicant Income**
